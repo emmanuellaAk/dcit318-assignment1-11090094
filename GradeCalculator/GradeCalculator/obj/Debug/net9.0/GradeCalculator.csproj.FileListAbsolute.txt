@@ -1,0 +1,14 @@
+C:\Users\23350\Music\Desktop\DCIT-318\repos\dcit318-assignment1-11310591\GradeCalculator\GradeCalculator\bin\Debug\net9.0\GradeCalculator.exe
+C:\Users\23350\Music\Desktop\DCIT-318\repos\dcit318-assignment1-11310591\GradeCalculator\GradeCalculator\bin\Debug\net9.0\GradeCalculator.deps.json
+C:\Users\23350\Music\Desktop\DCIT-318\repos\dcit318-assignment1-11310591\GradeCalculator\GradeCalculator\bin\Debug\net9.0\GradeCalculator.runtimeconfig.json
+C:\Users\23350\Music\Desktop\DCIT-318\repos\dcit318-assignment1-11310591\GradeCalculator\GradeCalculator\bin\Debug\net9.0\GradeCalculator.dll
+C:\Users\23350\Music\Desktop\DCIT-318\repos\dcit318-assignment1-11310591\GradeCalculator\GradeCalculator\bin\Debug\net9.0\GradeCalculator.pdb
+C:\Users\23350\Music\Desktop\DCIT-318\repos\dcit318-assignment1-11310591\GradeCalculator\GradeCalculator\obj\Debug\net9.0\GradeCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\23350\Music\Desktop\DCIT-318\repos\dcit318-assignment1-11310591\GradeCalculator\GradeCalculator\obj\Debug\net9.0\GradeCalculator.AssemblyInfoInputs.cache
+C:\Users\23350\Music\Desktop\DCIT-318\repos\dcit318-assignment1-11310591\GradeCalculator\GradeCalculator\obj\Debug\net9.0\GradeCalculator.AssemblyInfo.cs
+C:\Users\23350\Music\Desktop\DCIT-318\repos\dcit318-assignment1-11310591\GradeCalculator\GradeCalculator\obj\Debug\net9.0\GradeCalculator.csproj.CoreCompileInputs.cache
+C:\Users\23350\Music\Desktop\DCIT-318\repos\dcit318-assignment1-11310591\GradeCalculator\GradeCalculator\obj\Debug\net9.0\GradeCalculator.dll
+C:\Users\23350\Music\Desktop\DCIT-318\repos\dcit318-assignment1-11310591\GradeCalculator\GradeCalculator\obj\Debug\net9.0\refint\GradeCalculator.dll
+C:\Users\23350\Music\Desktop\DCIT-318\repos\dcit318-assignment1-11310591\GradeCalculator\GradeCalculator\obj\Debug\net9.0\GradeCalculator.pdb
+C:\Users\23350\Music\Desktop\DCIT-318\repos\dcit318-assignment1-11310591\GradeCalculator\GradeCalculator\obj\Debug\net9.0\GradeCalculator.genruntimeconfig.cache
+C:\Users\23350\Music\Desktop\DCIT-318\repos\dcit318-assignment1-11310591\GradeCalculator\GradeCalculator\obj\Debug\net9.0\ref\GradeCalculator.dll
