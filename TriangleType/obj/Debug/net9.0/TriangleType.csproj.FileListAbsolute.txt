@@ -1,0 +1,15 @@
+C:\Users\23350\Music\Desktop\DCIT-318\repos\dcit318-assignment1-11310591\TriangleType\bin\Debug\net9.0\TriangleType.exe
+C:\Users\23350\Music\Desktop\DCIT-318\repos\dcit318-assignment1-11310591\TriangleType\bin\Debug\net9.0\TriangleType.deps.json
+C:\Users\23350\Music\Desktop\DCIT-318\repos\dcit318-assignment1-11310591\TriangleType\bin\Debug\net9.0\TriangleType.runtimeconfig.json
+C:\Users\23350\Music\Desktop\DCIT-318\repos\dcit318-assignment1-11310591\TriangleType\bin\Debug\net9.0\TriangleType.dll
+C:\Users\23350\Music\Desktop\DCIT-318\repos\dcit318-assignment1-11310591\TriangleType\bin\Debug\net9.0\TriangleType.pdb
+C:\Users\23350\Music\Desktop\DCIT-318\repos\dcit318-assignment1-11310591\TriangleType\obj\Debug\net9.0\TriangleType.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\23350\Music\Desktop\DCIT-318\repos\dcit318-assignment1-11310591\TriangleType\obj\Debug\net9.0\TriangleType.AssemblyInfoInputs.cache
+C:\Users\23350\Music\Desktop\DCIT-318\repos\dcit318-assignment1-11310591\TriangleType\obj\Debug\net9.0\TriangleType.AssemblyInfo.cs
+C:\Users\23350\Music\Desktop\DCIT-318\repos\dcit318-assignment1-11310591\TriangleType\obj\Debug\net9.0\TriangleType.csproj.CoreCompileInputs.cache
+C:\Users\23350\Music\Desktop\DCIT-318\repos\dcit318-assignment1-11310591\TriangleType\obj\Debug\net9.0\TriangleType.sourcelink.json
+C:\Users\23350\Music\Desktop\DCIT-318\repos\dcit318-assignment1-11310591\TriangleType\obj\Debug\net9.0\TriangleType.dll
+C:\Users\23350\Music\Desktop\DCIT-318\repos\dcit318-assignment1-11310591\TriangleType\obj\Debug\net9.0\refint\TriangleType.dll
+C:\Users\23350\Music\Desktop\DCIT-318\repos\dcit318-assignment1-11310591\TriangleType\obj\Debug\net9.0\TriangleType.pdb
+C:\Users\23350\Music\Desktop\DCIT-318\repos\dcit318-assignment1-11310591\TriangleType\obj\Debug\net9.0\TriangleType.genruntimeconfig.cache
+C:\Users\23350\Music\Desktop\DCIT-318\repos\dcit318-assignment1-11310591\TriangleType\obj\Debug\net9.0\ref\TriangleType.dll
